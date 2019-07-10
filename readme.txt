@@ -9,3 +9,5 @@ version 2
 Git tracks changes
 
 Git tracks changes 2
+
+test checkout add 1 
